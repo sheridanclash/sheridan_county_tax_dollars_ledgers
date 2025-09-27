@@ -1,5 +1,7 @@
 # SCSD2 Restructured Data
 
+Primary data source for this page [fy_25_revenue.csv](https://github.com/sheridanclash/sheridan_county_tax_dollars_ledgers/blob/main/scsd2_restructured/fy_25_revenue.csv)
+
 The raw CSV files are from Sheridan County School District 2.
 The data in the raw files have rows with itemized data and rows with data totals for a given "account".
 
