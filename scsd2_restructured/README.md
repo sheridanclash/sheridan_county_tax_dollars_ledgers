@@ -9,7 +9,7 @@ There are two account considered here 01 000 81990 and 01 000 81990 002. By brea
 
 Further the data, in the raw files provided by the school district, is broken up into multiple rows with additional rows such as page number included that destroys the tabular structure intended in a CSV file.
 
-The two files 81990_itemized.psv and 81990_totals.psv are examples of tabular data that would be expected in a CSV. Note the use of the PSV file extension is because a pipe symbol | was used as a delimiter rather than a comma.
+The two files [81990_itemized.psv](https://github.com/sheridanclash/sheridan_county_tax_dollars_ledgers/blob/main/scsd2_restructured/81990_itemized.psv) and [81990_totals.psv](https://github.com/sheridanclash/sheridan_county_tax_dollars_ledgers/blob/main/scsd2_restructured/81990_totals.psv) are examples of tabular data that would be expected in a CSV. Note the use of the PSV file extension is because a pipe symbol | was used as a delimiter rather than a comma.
 
 In the interest of simplifying communication of the school districts data, eliminating the need for transforming the data, currently provided, into well structured tabular data would be beneficial to both the public and the school district. 
 
