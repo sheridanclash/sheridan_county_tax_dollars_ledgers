@@ -3,7 +3,7 @@
 The raw CSV files are from Sheridan County School District 2.
 The data in the raw files have rows with itemized data and rows with data totals for a given "account".
 
-There are two account considered here 01 000 81990 and 01 000 819900 002. By breaking the accounts into their constituent parts sorting the data is easier; however, not all account have the same number of constituent parts.
+There are two account considered here 01 000 81990 and 01 000 81990 002. By breaking the accounts into their constituent parts sorting the data is easier; however, not all account have the same number of constituent parts.
 
 Further the data in the raw files provided by the school district is broken up into multiple rows with additional rows such as page number that destroys the tabular structure intended in a CSV file.
 
